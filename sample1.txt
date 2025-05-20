@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am studying in Amity University
 =======
 My name is kenny
@@ -7,3 +8,6 @@ My name is kenny
 =======
 I live in bangalore
 >>>>>>> B2
+=======
+I like to play football
+>>>>>>> b3
