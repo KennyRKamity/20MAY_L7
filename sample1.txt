@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am studying in Amity University
 =======
 My name is kenny
 >>>>>>> B1
+=======
+I live in bangalore
+>>>>>>> B2
